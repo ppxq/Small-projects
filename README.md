@@ -8,7 +8,6 @@ Mini machine learnng projects:
     Convelotional Neural Network:
         CNN.py
     KMeans clustering:
-        clustering.py
         sub_clustering.py
         5000_points.txt (data file)
     Recommendation system:

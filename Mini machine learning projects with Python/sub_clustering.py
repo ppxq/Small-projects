@@ -1,3 +1,9 @@
+"""
+This is a toy case of KMeans clustering
+Practice map reduce and pyspark
+Try to find the best clustering method with least training error
+"""
+
 from pyspark import *
 
 conf = SparkConf().setMaster("local[*]").setAppName("Test App")
